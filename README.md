@@ -1,0 +1,2 @@
+- **AppZapper**: Zap your apps away.
+- **Say it!**: Pronunciation help at your finger tips!
